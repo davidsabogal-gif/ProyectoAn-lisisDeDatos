@@ -1,2 +1,2 @@
 # ProyectoAn-lisisDeDatos
-En el presente repositorio se encuentra los prácticos de Proyecto Análisis de Datos
+Este proyecto desarrolla un análisis exploratorio y predictivo de las fallas en la entrega de medicamentos para enfermedades crónicas en Colombia. A partir de datos abiertos y reportes institucionales, se identifican patrones geográficos y temporales, variables asociadas a fallas de suministro y se construyen modelos predictivos básicos para anticipar casos con mayor probabilidad de riesgo, con el fin de proponer recomendaciones prácticas orientadas a mejorar la logística y la oportunidad en la entrega.
